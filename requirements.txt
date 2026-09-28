@@ -1,0 +1,4 @@
+fpdf2
+openpyxl
+pyinstaller
+pywin32
